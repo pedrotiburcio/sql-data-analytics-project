@@ -52,5 +52,5 @@ Para facilitar a navegação, os scripts foram organizados na seguinte ordem ló
     * Data Modeling (Star Schema)
 
 ---
-**Autor:** [Pedro Tibúrcio]
+**Autor:** Pedro Tibúrcio
 *Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/pedro-tiburcio/)*
